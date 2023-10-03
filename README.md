@@ -2,7 +2,7 @@
 <br>
 
 - 🌎📖 Cursando Sistemas de Informação.
-- 🐱‍💻 Atualmente estudando Java, HTML5, CSS.
+- 🐱‍💻 Atualmente estudando Java, HTML5, CSS...
 - 🐱‍🚀 Pronomes: She/Her/Ela/Dela
 - 🌌🌠 Apaixonada por tecnologia, jogos e gatos (não necessariamente nessa ordem).
 
