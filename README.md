@@ -1,8 +1,8 @@
-### Olá! Eu sou a Natasha! 👾
+### Olá! Eu sou Natasha! 👾
 <br>
 
 - 🌎📖 Cursando Sistemas de Informação.
-- 🐱‍💻 Atualmente estudando Java, HTML5, CSS, Python...
+- 🐱‍💻 Atualmente estudando Java, Javascript, Python, HTML5 e CSS, SQL...
 - 🐱‍🚀 Pronomes: She/Her/Ela/Dela
 - 🌌🌠 Apaixonada por tecnologia, jogos e gatos (não necessariamente nessa ordem).
 
