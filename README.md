@@ -27,14 +27,18 @@
 <img alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="25"/>
 <img alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="25"/>
 <img alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="25"/>
-<img alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="25"/>
 <img alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="25"/>
 <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="25"/>
 <img alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="25"/>  
 </div>
 
-<div>
-<img width="300" src="[https://streak-stats.demolab.com?user=natashateixeira&theme=material-palenight&hide_border=true&border_radius=20&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&dates=C9A3E6&background=000000&currStreakLabel=C9A3E6&currStreakNum=C9A3E6&hide_longest_streak=true](https://streak-stats.demolab.com?user=natashateixeira&theme=material-palenight&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=310&card_height=175&background=000000&sideNums=C9A3E6&currStreakNum=C9A3E6&currStreakLabel=C9A3E6&sideLabels=C9A3E6&excludeDaysLabel=C9A3E6&hide_longest_streak=true)">
-<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natashateixeira&hide_border=true&locale=pt-br&layout=compact&bg_color=000000&text_color=C9A3E6&icon_color=C9A3E6&border_radius=20&langs_count=7&theme=material-palenight"/>
-<img width="350" height="200" src="https://github-readme-stats.vercel.app/api?username=natashateixeira&show_icons=true&hide_border=true&theme=material-palenight&bg_color=000000&border_radius=20&text_color=C9A3E6&icon_color=C9A3E6&locale=pt-br&include_all_commits=true&hide=stars,issues&count_private=false"/>
+<div style="margin-top: 100px;" align="center">
+
+<br>
+
+| ![natashateixeira top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natashateixeira&width=275&theme=material-palenight&bg_color=000000&border_radius=20&text_color=C9A3E6&hide_border=true&layout=compact) | ![natashateixeira stats](https://github-readme-stats.vercel.app/api?username=natashateixeira&theme=material-palenight&show_icons=true&width=275&hide_border=true&bg_color=000000&border_radius=20&text_color=C9A3E6&icon_color=C9A3E6&hide=stars,issues&include_all_commits=true) |
+| :-: | :-: |
+
+<br>
+
 </div>
