@@ -35,10 +35,3 @@
 <div style="margin-top: 100px;" align="center">
 
 <br>
-
-| ![natashateixeira top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natashateixeira&width=275&theme=material-palenight&bg_color=000000&border_radius=20&text_color=C9A3E6&hide_border=true&layout=compact) | ![natashateixeira stats](https://github-readme-stats.vercel.app/api?username=natashateixeira&theme=material-palenight&show_icons=true&width=275&hide_border=true&bg_color=000000&border_radius=20&text_color=C9A3E6&icon_color=C9A3E6&hide=stars,issues&include_all_commits=true) |
-| :-: | :-: |
-
-<br>
-
-</div>
