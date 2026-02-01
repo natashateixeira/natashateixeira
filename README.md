@@ -2,10 +2,14 @@
 <img width="100%" src= "https://capsule-render.vercel.app/api?type=soft&height=140&section=header&reversal=false&textBg=false&animation=fadeIn"/>
 
 <div align="center" width="100%">
-<img src= "https://readme-typing-svg.demolab.com?font=Jost&size=19&duration=4000&pause=900&color=C9A3E6&center=true&vCenter=true&width=900&height=30&lines=Hello%2C+I'm+Natasha!;A+UX%2FUI+and+front-end+enthusiast;who+loves+technology%2C+games%2C+and+(of+course)+cats." alt = "Typing SVG"/>
+<img src= "https://readme-typing-svg.demolab.com?font=Jost&size=19&duration=4000&pause=900&color=C9A3E6&center=true&vCenter=true&width=900&height=30&lines=Hello%2C+I'm+Natasha!;" alt = "Typing SVG"/>
 </div>
-<br>
-<div align="center" >
+<div align="center">
+  <em>✨ Estudante do 7º período de Sistemas de Informação ✨</em><br>
+  <em>✨ Front-end e UX/UI ✨</em><br>
+  <em>✨ Amante de gatos e games ✨</em>
+</div><br>
+<div align="center">
 <a href="https://www.linkedin.com/in/natashateixeira/">
 <img src= "https://img.shields.io/badge/Linkedin-C9A3E6?style=for-the-badge" alt="linkedin" height="23"></a>
 <a href="mailto:natashatx.contato@gmail.com">
